@@ -116,11 +116,11 @@ msgstr "Tâches exportée"
 
 #: errands/widgets/components.py:99
 msgid "Today"
-msgstr ""
+msgstr "Aujourd'hui"
 
 #: errands/widgets/components.py:104
 msgid "Tomorrow"
-msgstr ""
+msgstr "Demain"
 
 #: errands/widgets/components.py:117
 msgid "Now"
@@ -150,7 +150,7 @@ msgstr "Ajouter une liste"
 
 #: errands/widgets/lists.py:139
 msgid "More Options"
-msgstr ""
+msgstr "Plus d'options"
 
 #: errands/widgets/lists.py:146
 msgid "Sync / Fetch Tasks"
